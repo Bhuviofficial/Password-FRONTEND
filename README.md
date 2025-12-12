@@ -36,7 +36,7 @@ The application uses the following technologies:
 Contributions are welcome. To contribute to the project, follow these steps:
 
 1. Fork the repository using the command `git fork https://github.com/username/password-frontend.git`
-2. Clone the forked repository using the command `git clone https://github.com/your-username/password-frontend.git`
+2. Clone the forked repository using the command `git clone https://github.com/Bhuviofficial/Password-FRONTEND
 3. Navigate to the repository's directory using the command `cd password-frontend`
 4. Make changes to the code.
 5. Commit the changes using the command `git commit -m "commit message"`
